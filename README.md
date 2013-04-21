@@ -2,7 +2,7 @@ Working with the Starts in the Cloud
 ====================================
 
 Propuesta para la ampliación del alcance del programa MyvirtualMentor a un enfoque global para romper barreras idiomáticas, 
-generacionales.
+generacionales y tecnológicas.
 
 Ver la presentación:
 
