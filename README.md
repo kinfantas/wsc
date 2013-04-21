@@ -1,4 +1,4 @@
-working with the starts in the cloud 
+Working with the Starts in the Cloud 
 ====================================
 
 Propuesta para la ampliación del alcance del programa MyvirtualMentor a un enfoque global para romper barreras idiomáticas, 
